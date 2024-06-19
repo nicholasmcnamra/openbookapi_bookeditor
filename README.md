@@ -3,15 +3,15 @@
 To run this project, please run the following commands in your terminal:
 
 npm install @mui/material<br/>
-npm install @emotion/react <br/>
-npm install @emotion/styled 
-npm install axios
-npm install -S react-router-dom
-npm install redux
-npm install reduce-reducers
-npm install redux-persist
-npm install @reduxjs/toolkit 
-npm install react-redux
+npm install @emotion/react<br/>
+npm install @emotion/styled<br/> 
+npm install axios<br/>
+npm install -S react-router-dom<br/>
+npm install redux<br/>
+npm install reduce-reducers<br/>
+npm install redux-persist<br/>
+npm install @reduxjs/toolkit<br/> 
+npm install react-redux<br/>
 
 -- run using npm start --
 
