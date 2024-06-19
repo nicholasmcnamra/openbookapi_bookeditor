@@ -1,0 +1,78 @@
+/* Because this was a small app, I consolidated styles to one css file. */
+
+/* BookList Styles */
+
+.header {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.book-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  padding: 20px 200px 0px 200px;
+}
+  
+.title-year {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.author {
+  text-align: right;
+}
+
+.description {
+  margin-top: 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;  
+}
+
+.sort {
+  display: flex;
+  justify-content: right;
+  padding-right: 200px;
+}
+
+.sort-box {
+  width: 150px;
+}
+
+.divider {
+  padding: 60px 20px 20px 20px;
+}
+
+/* EditBook styles */
+
+.submit-form {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px 20px 0px;
+
+}
+
+.submit-button {
+  width: 120px !important;
+}
+
+.submit-text {
+  width: 300px !important;
+}
+
+.edit-book-container {
+  padding: 10px;
+}
+
+.edit-delete-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
