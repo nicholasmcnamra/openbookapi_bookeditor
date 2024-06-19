@@ -2,8 +2,8 @@
 
 To run this project, please run the following commands in your terminal:
 
-npm install @mui/material
-npm install @emotion/react 
+npm install @mui/material< br / >
+npm install @emotion/react < br / >
 npm install @emotion/styled 
 npm install axios
 npm install -S react-router-dom
